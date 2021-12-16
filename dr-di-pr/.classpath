@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="C:/Users/Amit/Desktop/652010/14.5.2010/Ne Eclipse/android-sdk-windows/platforms/android-7/android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amit/Desktop/652010/14.5.2010/Ne Eclipse/android-sdk-windows/add-ons/google_apis-7_r01/libs/maps.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
